@@ -1,6 +1,6 @@
 # FB-Prophet Forecasting
 
-##Table of Contents
+## Table of Contents
 
 - About the Project
 - Getting Started
@@ -46,9 +46,14 @@ To integrate the forecasting model with Power BI, follow the steps in Integratio
 ![Bnb](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/da4c5954-21aa-4dc0-a567-43cd88ca9a0d)
 ![Cardano](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/77cebda7-9aaa-4409-b2f8-fa0f36119e72)
 ![Dogecoin](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/7aa3cbfd-f25c-42bb-b3e9-2dbccd2da2df)
+![Bitcoin RMSE](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/b4c9ff74-dbd5-4e5b-8af6-7dbf5f651240)
+![Bnb RMSE](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/3064ce22-160f-4052-ae17-9ff72cd2250d)
+![Cardano RMSE](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/f6686303-6ab5-4ef2-8b32-5743b91dfabb)
+![Dogecoin RMSE](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/84738611-1c84-4471-b453-b65b935fe543)
+![Ethereum RMSE](https://github.com/Ranvi2002/FB-Prophet/assets/104156042/03b1b67b-86ce-4d7f-926f-03d53119de3e)
 
-Acknowledgments
+## Acknowledgments
 Special thanks to the contributors of Facebook Prophet and the Power BI community.
 
-Contact
+## Contact
 For any questions or feedback, feel free to reach out to harshpatel01192002@gmail.com
